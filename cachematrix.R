@@ -17,7 +17,6 @@
                  getinv = getinv)
     }
     
-    
     ## Function cacheSolve computes the inverse of the matrix 
     ##      from the function makeCacheMatrix. 
     ## If the inverse was already calculated before with the same matrix, 
